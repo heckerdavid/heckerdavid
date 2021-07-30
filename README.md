@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, JavaScript, HTML, & CSS!
 
 
 <!---
