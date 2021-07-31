@@ -1,7 +1,33 @@
-- 👋 Hi, I’m David!
-- 🌱 I’m currently learning Python, JavaScript, HTML, & CSS!
-- Connect with me on [Linkedin](https://www.linkedin.com/in/david-hecker/)
-- Email me @ heckerdw@gmail.com
+# 👋  Hi, I’m David!
+
+Currently studying software development at CodeFellows. 
+My background is in chemistry and nuclear power.
+
+## 🌱  Currently learning
+
+    - Python
+    - JavaScript
+    - HTML
+    - CSS
+    
+### 📝 Interested in
+
+- Blockchain
+- ML
+- AI
+
+#### Hobbies 
+
+- Rock Climbing
+- Photography
+- Snowboarding
+- Snowshoeing/Mountaineering
+- Espresso
+
+##### Connect with me
+
+- Linkedin [David Hecker](https://www.linkedin.com/in/david-hecker/)
+- Email heckerdw@gmail.com
 
 
 <!---
