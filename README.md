@@ -10,13 +10,13 @@ My background is in chemistry and nuclear power.
     - HTML
     - CSS
     
-### 📝 Interested in
+## 📝 Interested in
 
 - Blockchain
 - ML
 - AI
 
-#### Hobbies 
+## 🧗‍♂️ Hobbies 
 
 - Rock Climbing
 - Photography
@@ -24,7 +24,7 @@ My background is in chemistry and nuclear power.
 - Snowshoeing/Mountaineering
 - Espresso
 
-##### Connect with me
+### Connect with me
 
 - Linkedin [David Hecker](https://www.linkedin.com/in/david-hecker/)
 - Email heckerdw@gmail.com
