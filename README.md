@@ -1,9 +1,9 @@
-# 👋  Hi, I’m David!
+#  👋   Hi, I’m David!
 
 Currently studying software development at CodeFellows. 
 My background is in chemistry and nuclear power.
 
-## 🌱  Currently learning
+## 🌱 Actively Learning
 
     - Python
     - JavaScript
@@ -12,17 +12,17 @@ My background is in chemistry and nuclear power.
     
 ## 📝 Interested in
 
-- Blockchain
-- ML
-- AI
+    - Blockchain
+    - ML
+    - AI
 
 ## 🧗‍♂️ Hobbies 
 
-- Rock Climbing
-- Photography
-- Snowboarding
-- Snowshoeing/Mountaineering
-- Espresso
+    - Rock Climbing
+    - Photography
+    - Snowboarding
+    - Snowshoeing/Mountaineering
+    - Espresso
 
 ### Connect with me
 
