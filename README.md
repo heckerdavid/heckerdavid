@@ -5,7 +5,7 @@ My background is in chemistry and nuclear power.
 
 ## 🌱 Actively Learning
 
-    - <img src="https://image.pngaaa.com/282/619282-middle.png" alt="Python" height="100"> Python
+    - <img src="https://image.pngaaa.com/282/619282-middle.png" alt="Python" height="100"/> Python
     - JavaScript
     - HTML
     - CSS
