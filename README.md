@@ -15,6 +15,7 @@ My background is in chemistry and nuclear power.
     - Blockchain
     - ML
     - AI
+    - Formula 1
 
 ## 🧗‍♂️ Hobbies 
 
