@@ -11,17 +11,18 @@ My background is in chemistry and nuclear power.
 |  |  |  |  |  |  |
 
 ## Tools
-
-| <img src="img/apple.png" width=30/> MacOS | <img src="img/vscode.png" width=30/> Visual Studio Code | <img src="img/chrome.png" width=30/> Google Chrome |
+| | | |
 | ----------- | ----------- | ----------- |
+| <img src="img/apple.png" width=30/> MacOS | <img src="img/vscode.png" width=30/> Visual Studio Code | <img src="img/chrome.png" width=30/> Google Chrome |
 | <img src="img/git.png" width=30/> Git | <img src="img/github.png" width=30/> Github | <img src="img/slack.png" width=30/> Slack |
+| | | |
 
 ## Interested in
 
-    - Blockchain
-    - ML
-    - AI
-    - Formula 1
+| | | |
+| ----------- | ----------- | ----------- |
+| <img src="img/eth2.png" width=30/> Blockchain | <img src="img/ai.png" width=30/> AI / ML | <img src="img/f1.png" width=30/> Formula 1 |
+| | | |
 
 ## Hobbies
 
