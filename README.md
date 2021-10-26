@@ -39,9 +39,3 @@ My background is in chemistry and nuclear power.
    <img src="img/linkedin.png" width=25/> [David Hecker](https://www.linkedin.com/in/david-hecker/)
 
   <img src="img/gmail.png" width=25/> heckerdw@gmail.com
-
-
-<!---
-heckerdavid/heckerdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
