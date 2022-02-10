@@ -19,12 +19,6 @@ My background is in chemistry and nuclear power.
 | <img src="img/git.png" width=30/> Git | <img src="img/github.png" width=30/> Github | <img src="img/slack.png" width=30/> Slack |
 | | | |
 
-## Interested in
-
-| | | |
-| ----------- | ----------- | ----------- |
-| <img src="img/eth2.png" width=30/> Blockchain | <img src="img/ai.png" width=30/> AI / ML | <img src="img/f1.png" width=30/> Formula 1 |
-| | | |
 
 ## Hobbies
 
