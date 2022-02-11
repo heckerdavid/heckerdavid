@@ -20,13 +20,16 @@ My background is in chemistry and nuclear power.
 | | | |
 
 
-## Hobbies
+## Hobbies / Interests
 
+    - Keyboards
+    - Formula 1
     - Rock Climbing
     - Photography
     - Snowboarding
     - Snowshoeing/Mountaineering
     - Espresso
+    - James Webb Space Telescope
 
 ### Connect with me
 
