@@ -13,9 +13,9 @@ My background is in chemistry and nuclear power.
 ## Tools
 | | | |
 | ----------- | ----------- | ----------- |
-| <img src="img/react.png" width=30/> React | <img src="img/vscode.png" width=30/> Visual Studio Code | <img src="img/apple.png" width=30/> MacOS |
-| <img src="img/git.png" width=30/> Git | <img src="img/github.png" width=30/> Github | <img src="img/linux.png" width=30/> Linux |
-| <img src="img/node.png" width=30/> Nodejs | <img src="img/mongo.png" width=30/> MongoDB | <img src="img/ExpressJS-logo.png" width=30/> Expressjs |
+| <img src="img/react.png" width=50/> React | <img src="img/vscode.png" width=50/> Visual Studio Code | <img src="img/apple.png" width=50/> MacOS |
+| <img src="img/git.png" width=50/> Git | <img src="img/github.png" width=50/> Github | <img src="img/linux.png" width=50/> Linux |
+| <img src="img/node.png" width=50/> Nodejs | <img src="img/mongo.png" width=50/> MongoDB | <img src="img/ExpressJS-logo.png" width=50/> Expressjs |
 | | | |
 
 
