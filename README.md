@@ -1,7 +1,7 @@
 #  👋   Hi, I’m David!
 
-Currently studying software development at CodeFellows. 
-My background is in chemistry and nuclear power.
+A curious software developer who is passionate about learning. 
+My background is in chemistry, nuclear power, and team leadership.
 
 ##  Languages
 
