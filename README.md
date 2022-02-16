@@ -1,6 +1,6 @@
 #  👋   Hi, I’m David!
 
-A curious software developer who is passionate about learning. 
+I am a software developer, Navy veteran, and avid learner who thrives in fast paced, high stakes environments. I am passionate about sustainability, increasing access to information globally, and empowering individuals to impact change.
 My background is in chemistry, nuclear power, and team leadership.
 
 ##  Languages
