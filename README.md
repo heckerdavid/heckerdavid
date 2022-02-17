@@ -21,17 +21,17 @@ My background is in chemistry, nuclear power, and team leadership.
 
 ## Hobbies / Interests
 
-    - Keyboards
-    - Formula 1
-    - Rock Climbing
-    - Photography
-    - Snowboarding
-    - Snowshoeing/Mountaineering
-    - Espresso
-    - James Webb Space Telescope
+     Keyboards
+     Formula 1
+     Rock Climbing
+     Photography
+     Snowboarding
+     Snowshoeing/Mountaineering
+     Espresso
+     James Webb Space Telescope
 
 ### Connect with me
 
-   <img src="img/linkedin.png" width=25/> [David Hecker](https://www.linkedin.com/in/david-hecker/)
+  &nbsp; <img src="img/linkedin.png" width=20/> &nbsp;&nbsp;[David Hecker](https://www.linkedin.com/in/david-hecker/)
 
-  <img src="img/gmail.png" width=25/> heckerdw@gmail.com
+  &nbsp; <img src="img/gmail.png" width=20/> &nbsp;&nbsp;heckerdw@gmail.com
