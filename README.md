@@ -29,6 +29,8 @@ My background is in chemistry, nuclear power, and team leadership.
      Snowshoeing/Mountaineering
      Espresso
      James Webb Space Telescope
+     Motorcycles
+     House Plants
 
 ### Connect with me
 
