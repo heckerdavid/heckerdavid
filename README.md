@@ -31,6 +31,7 @@ My background is in chemistry, nuclear power, and team leadership.
      James Webb Space Telescope
      Motorcycles
      House Plants
+     Yoga
 
 ### Connect with me
 
