@@ -18,6 +18,10 @@ My background is in chemistry, nuclear power, and team leadership.
 | <img src="img/node.png" width=50/> Nodejs | <img src="img/mongo.png" width=50/> MongoDB | <img src="img/ExpressJS-logo.png" width=50/> Expressjs |
 | | | |
 
+## Projects
+
+[Apple Smash](https://github.com/NotFFTT/game)
+- an online multiplayer battle game which can host up to four unique character players. Apple Smash utilizes the Python Arcade game engine and Digital Ocean for server hosting.
 
 ## Hobbies / Interests
 
