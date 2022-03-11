@@ -21,7 +21,7 @@ My background is in chemistry, nuclear power, and team leadership.
 ## Projects
 
 - [Apple Smash](https://github.com/NotFFTT/game)
-  - an online multiplayer battle game which can host up to four unique character players. Apple Smash utilizes the Python Arcade game engine and Digital Ocean for server hosting.
+  - an online multiplayer battle game which can host up to four unique character players
   - [Demo](https://youtu.be/L9-kgbdOjHE)
 
 
