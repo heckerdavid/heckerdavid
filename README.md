@@ -41,7 +41,7 @@ My background is in chemistry, nuclear power, and team leadership.
      House Plants
      Yoga
 
-### Connect with me
+## Connect with me
 
   &nbsp; <img src="img/linkedin.png" width=20/> &nbsp;&nbsp;[David Hecker](https://www.linkedin.com/in/david-hecker/)
 
