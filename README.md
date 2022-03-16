@@ -43,6 +43,6 @@ My background is in chemistry, nuclear power, and team leadership.
 
 ## Connect with me
 
-  &nbsp; <img src="img/linkedin.png" width=20/> &nbsp;&nbsp;[David Hecker](https://www.linkedin.com/in/david-hecker/)
+  &nbsp; <img src="img/linkedin.png" width=20/> &nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/david-hecker/)
 
   &nbsp; <img src="img/gmail.png" width=20/> &nbsp;&nbsp;heckerdw@gmail.com
