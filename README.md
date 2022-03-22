@@ -1,4 +1,4 @@
-#  👋 &nbsp;Hi, I’m David!
+#  👋 &nbsp; Hi, I’m David!
 
 I am a software developer, Navy veteran, and avid learner who thrives in fast paced, high stakes environments. I am passionate about sustainability, increasing access to information globally, and empowering individuals to impact change.
 My background is in chemistry, nuclear power, and team leadership.
@@ -43,6 +43,6 @@ My background is in chemistry, nuclear power, and team leadership.
 
 ## Connect with me
 
-  &nbsp; <img src="img/linkedin.png" width=20/> &nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/david-hecker/)
+  &nbsp; <img src="img/linkedin.png" width=20/> &nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/david-hecker/)
 
-  &nbsp; <img src="img/gmail.png" width=20/> &nbsp;&nbsp;heckerdw@gmail.com
+  &nbsp; <img src="img/gmail.png" width=20/> &nbsp;&nbsp; heckerdw@gmail.com
