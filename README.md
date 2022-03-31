@@ -10,14 +10,6 @@ My background is in chemistry, nuclear power, and team leadership.
 <img src="img/python.png" width=70/> | <img src="img/js.png" width=70/> | <img src="img/html.png" width=70/> | <img src="img/css.png" width=70/> |
 |  |  |  |  |
 
-## Tools
-| | | |
-| ----------- | ----------- | ----------- |
-| <img src="img/react.png" width=50/> React | <img src="img/vscode.png" width=50/> Visual Studio Code | <img src="img/apple.png" width=50/> MacOS |
-| <img src="img/git.png" width=50/> Git | <img src="img/github.png" width=50/> Github | <img src="img/linux.png" width=50/> Linux |
-| <img src="img/node.png" width=50/> Nodejs | <img src="img/mongo.png" width=50/> MongoDB | <img src="img/ExpressJS-logo.png" width=50/> Expressjs |
-| | | |
-
 ## Projects
 
 - [Apple Smash](https://github.com/NotFFTT/game)
@@ -26,6 +18,16 @@ My background is in chemistry, nuclear power, and team leadership.
 
 
 - [Python Data Structures and Algorithms](https://github.com/heckerdavid/data-structures-and-algorithms/tree/main/python)
+
+## Tools
+| | | |
+| ----------- | ----------- | ----------- |
+| <img src="img/react.png" width=50/> React | <img src="img/vscode.png" width=50/> Visual Studio Code | <img src="img/apple.png" width=50/> MacOS |
+| <img src="img/git.png" width=50/> Git | <img src="img/github.png" width=50/> Github | <img src="img/linux.png" width=50/> Linux |
+| <img src="img/node.png" width=50/> Nodejs | <img src="img/mongo.png" width=50/> MongoDB | <img src="img/ExpressJS-logo.png" width=50/> Expressjs |
+| | | |
+
+
 
 ## Hobbies / Interests
 
