@@ -12,9 +12,10 @@ My background is in chemistry, nuclear power, and team leadership.
 
 ## Projects
 
-- [Apple Smash](https://github.com/NotFFTT/game)
+- Apple Smash
   - an online multiplayer battle game which can host up to four unique character players
   - [Demo](https://youtu.be/L9-kgbdOjHE)
+  - [Repo](https://github.com/NotFFTT/game)
 
 
 - [Python Data Structures and Algorithms](https://github.com/heckerdavid/data-structures-and-algorithms/tree/main/python)
