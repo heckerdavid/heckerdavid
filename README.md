@@ -13,7 +13,7 @@ My background is in chemistry, nuclear power, and team leadership.
 ## Projects
 
 - Apple Smash
-  - an online multiplayer battle game which can host up to four unique character players
+  - an online multiplayer battle game which can host up to four players
   - [Demo](https://youtu.be/L9-kgbdOjHE)
   - [Repo](https://github.com/NotFFTT/game)
 
